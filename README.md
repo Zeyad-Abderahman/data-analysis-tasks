@@ -1,6 +1,6 @@
-# Data Analysis Course Tasks – Area Soft
+# Data Analysis Course Tasks – Erea Soft
 
-This repository contains my completed tasks and hands-on projects from the **"Intro to Data Analysis"** course offered by **Area Soft**, led by instructor **Sayed Abdul-Monem**. The course provides a strong foundation in data analysis concepts, tools, and techniques used in real-world applications.
+This repository contains my completed tasks and hands-on projects from the **"Intro to Data Analysis"** course offered by **Erea Soft**, led by instructor **Sayed Abdul-Monem**. The course provides a strong foundation in data analysis concepts, tools, and techniques used in real-world applications.
 
 Throughout this repository, you'll find exercises that cover the full **Data Analysis Life Cycle**:
 - Defining objectives
